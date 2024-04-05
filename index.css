@@ -71,17 +71,49 @@ p{
     color:aliceblue;
     width: 150px;
     height: 120px;
+    float:left;
     margin-left: 60px;
     margin-top: 10px;
-
+    margin-bottom: 10px;
 }
 
 .persegi2{
     background-color:orange;
     color:aliceblue;
-    width: 30px;
-    height: 20px;
-    margin-left: 40px;
+    width: 150px;
+    height: 120px;
+    float: right;
+    margin-right: 60px;
+    margin-top: 10px;
+}
+
+.persegi3{
+    background-color:indianred;
+    color:aliceblue;
+    width: 80px;
+    height: 80px;
+    clear: left;
+    margin-left: 80px;
+}
+
+.persegi4{
+    background-color:indianred;
+    color:aliceblue;
+    width: 80px;
+    height: 80px;
+    float: left;
+    margin-top: -80px;
+    margin-left: 213px;
+}
+
+.persegi5{
+    background-color:indianred;
+    color:aliceblue;
+    width: 80px;
+    height: 80px;
+    float: right;
+    margin-top: -80px;
+    margin-right: 80px;
 }
 
 .box3{
