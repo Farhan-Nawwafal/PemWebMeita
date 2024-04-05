@@ -1,0 +1,143 @@
+h1{
+    color:brown;
+}
+p{
+    color:darkolivegreen;
+}
+.box{
+    background-color:khaki;
+    color:antiquewhite;
+    width: 800px;
+    height: 800px;
+    margin-top: 100px;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding: 10px;
+}
+
+.box1{
+    background-color:brown;
+    color:aliceblue;
+    width:700px;
+    height: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.box2{
+    background-color:salmon;
+    color:aliceblue;
+    width:700px;
+    height:300px;
+    margin-top: 3px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.box21{
+    background-color:blue;
+    color:aliceblue;
+    width: 160px;
+    height: 260px;
+    float: left;
+    margin-top:18px;
+    margin-left: 10px;
+    margin-right: 7px;
+}
+
+.box22{
+    background-color:blue;
+    color:aliceblue;
+    width: 500px;
+    height: 260px;
+    float: left;
+    margin-top:18px;
+    margin-left: 7px;
+    margin-right: 7px;
+}
+
+.kecil1{
+    background-color:violet;
+    color:aliceblue;
+    width: 400px;
+    height: 20px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.persegi1{
+    background-color:orange;
+    color:aliceblue;
+    width: 150px;
+    height: 120px;
+    margin-left: 60px;
+    margin-top: 10px;
+
+}
+
+.persegi2{
+    background-color:orange;
+    color:aliceblue;
+    width: 30px;
+    height: 20px;
+    margin-left: 40px;
+}
+
+.box3{
+    background-color:brown;
+    color:aliceblue;
+    width:700px;
+    height: 250px;
+    margin-top:20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 5px;
+}
+
+.box31{
+    background-color:rgb(42, 147, 165);
+    color:aliceblue;
+    width:165px;
+    height: 250px;
+    float: left;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.box32{
+    background-color:rgb(42, 147, 165);
+    color:aliceblue;
+    width:165px;
+    height: 250px;
+    float: left;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.box33{
+    background-color:rgb(42, 147, 165);
+    color:aliceblue;
+    width:165px;
+    height: 250px;
+    float: left;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.box34{
+    background-color:rgb(42, 147, 165);
+    color:aliceblue;
+    width:165px;
+    height: 250px;
+    float: left;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.box4{
+    background-color:brown;
+    color:aliceblue;
+    width:720px;
+    height: 50px;
+    margin-top:20PX;
+    margin-left: 50px;
+    margin-right: 50px;
+}
